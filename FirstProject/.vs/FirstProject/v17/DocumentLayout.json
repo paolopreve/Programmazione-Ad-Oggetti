@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CUM\\Documents\\GitHub\\Programmazione-Ad-Oggetti\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F35052-9355-4D8F-99A9-8B417BE7C2E7}|FirstProject\\FirstProject.vcxproj|C:\\Users\\CUM\\Documents\\GitHub\\Programmazione-Ad-Oggetti\\FirstProject\\FirstProject\\FirstProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52F35052-9355-4D8F-99A9-8B417BE7C2E7}|FirstProject\\FirstProject.vcxproj|solutionrelative:FirstProject\\FirstProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstProject.cpp",
+              "DocumentMoniker": "C:\\Users\\CUM\\Documents\\GitHub\\Programmazione-Ad-Oggetti\\FirstProject\\FirstProject\\FirstProject.cpp",
+              "RelativeDocumentMoniker": "FirstProject\\FirstProject.cpp",
+              "ToolTip": "C:\\Users\\CUM\\Documents\\GitHub\\Programmazione-Ad-Oggetti\\FirstProject\\FirstProject\\FirstProject.cpp",
+              "RelativeToolTip": "FirstProject\\FirstProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:41:38.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
